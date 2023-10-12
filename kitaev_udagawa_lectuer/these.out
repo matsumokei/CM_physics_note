@@ -1,0 +1,23 @@
+%このファイルは日本語文字を含みます.
+\BOOKMARK [1][-]{section.1}{introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Kitaev model}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{マヨナラ表現}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Hamiltonianの変換}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Z2ゲージ自由度}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Z2 Flux}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Kitaev模型を解く手順}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Majonaraの一般論}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{固有状態の表現}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{基底状態の性質}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{一様Fluxのセクター}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{基底状態の相図}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Toric code limit}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{異方的極限の有効ハミルトニアン}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{低エネルギー有効模型}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Toric code 模型への帰着}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Toric code model}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{s, pの性質}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{基底状態}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.3}{トポロジカル縮退}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.4}{励起状態}{section.6}% 21
+\BOOKMARK [1][-]{section.7}{Stabilizer state}{}% 22
